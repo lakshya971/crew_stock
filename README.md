@@ -27,7 +27,7 @@ streamlit run streamlit_app.py
 
 Enter a ticker in the sidebar to view live market data and run the CrewAI analyst and trader agents.
 
-Streamlit Cloud uses the Python version declared in `runtime.txt` and the pinned packages in `requirements.txt`.
+For Streamlit Cloud, open **Advanced settings** while deploying and select Python **3.12** (or **3.11**). CrewAI 1.15.x and its ChromaDB dependency are not compatible with Python 3.14. The pinned packages in `requirements.txt` are selected to match the supported runtime.
 
 ## Notes
 
