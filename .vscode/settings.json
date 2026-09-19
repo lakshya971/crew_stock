@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "d:\\crewai_agent\\.venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "code-runner.executorMap": {
+        "python": "\"d:\\crewai_agent\\.venv\\Scripts\\python.exe\" -u"
+    }
+}
