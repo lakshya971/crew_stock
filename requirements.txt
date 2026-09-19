@@ -1,5 +1,6 @@
 crewai==1.15.21
 crewai-tools==1.15.21
+litellm==1.101.0
 chromadb==1.1.1
 pydantic==2.12.5
 python-dotenv==1.2.3
