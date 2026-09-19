@@ -1,5 +1,7 @@
-crewai
-crewai-tools
-python-dotenv
-yfinance
-streamlit
+crewai==1.15.21
+crewai-tools==1.15.21
+chromadb==1.1.1
+pydantic==2.12.5
+python-dotenv==1.2.3
+yfinance==1.7.0
+streamlit==1.64.0

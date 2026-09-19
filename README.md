@@ -27,6 +27,8 @@ streamlit run streamlit_app.py
 
 Enter a ticker in the sidebar to view live market data and run the CrewAI analyst and trader agents.
 
+Streamlit Cloud uses the Python version declared in `runtime.txt` and the pinned packages in `requirements.txt`.
+
 ## Notes
 
 Market data is retrieved from Yahoo Finance. AI output is informational and is not financial advice.
